@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/564x/b6/32/f5/b632f5ef45d6434337f95f305c118b3c.jpg)]
+
+<img src="https://i.pinimg.com/564x/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.jpg" width="1000" height="300" />
 <h1 align="center">Hi 👋, I'm Anshika Guleria</h1>
 <h3 align="center">A passionate developer from India looking to grow in flutter development.</h3>
 <img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/5b/1a/74/5b1a748aae0ebb507fbebf17c9bbbb5a.gif">
