@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/56/5d/67/565d67b0808e022c7e5d9cccef5e06fb.jpg" width="1000" height="300" />
+<img src="https://i.pinimg.com/originals/d3/d8/9d/d3d89d3c04b5fe18c242cf168d5a9b38.jpg" width="1000" height="300" />
 <h1 align="center">Hi 👋, I'm Anshika Guleria</h1>
 <h3 align="center">A passionate developer from India looking to grow in flutter development.</h3>
 <img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/5b/1a/74/5b1a748aae0ebb507fbebf17c9bbbb5a.gif">
