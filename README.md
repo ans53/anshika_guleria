@@ -1,65 +1,65 @@
-<h1 align="center">Hi 👋, I'm Anshika Guleria</h1>
-<h3 align="center">Frontend / Full-Stack Developer | Learning & Building Everyday 🌱</h3>
+<h1 align="center">Heyyy 👋 I'm Anshika Guleria</h1>
+<p align="center">
+  🌱 Learning • 💻 Building • 🎨 Designing
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R3ZWR6d2s3Z2N4a3k3eGdndnJvNjc1ZHVkdHR4NXM4cHpsYm5jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260" alt="cute working gif"/>
 </p>
 
 ---
 
-## 💫 About Me
-- 🌱 Currently learning **React, Tailwind CSS & DaisyUI**
-- 🎨 Enjoy creating **clean and responsive UIs**
-- 🧠 Exploring backend with **Node.js & Express**
-- 📱 Actively improving **mobile responsiveness**
-- ✨ Believer in *learning by doing & debugging*
+## 🌸 About Me
+✨ I’m a curious developer who loves creating **clean, responsive web interfaces**  
+📱 Currently improving **mobile-first design**  
+⚡ Learning **React, Tailwind CSS & DaisyUI**  
+🧩 Exploring backend with **Node.js & Express**  
+🌱 Taking things step by step (and debugging a LOT)
 
 ---
 
-## 🧑‍💻 Technologies I Use
+## 🛠 Tech Stack I Work With
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github" />
 </p>
 
 ---
 
-## 🌈 Top Languages
+## 📊 GitHub Stats (Clean & Proper)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="150"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+## 🌈 Most Used Languages
+> (This updates automatically as you code — totally normal if it changes!)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 💌 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:YOUREMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-⭐ *“Still learning. Still growing. Still building.”*
+<p align="center">
+  🌷 <i>Learning every day. Growing quietly. Building confidently.</i>
+</p>
+
