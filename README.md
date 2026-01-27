@@ -1,22 +1,65 @@
-
-<img src="https://i.pinimg.com/originals/d3/d8/9d/d3d89d3c04b5fe18c242cf168d5a9b38.jpg" width="1000" height="300" />
 <h1 align="center">Hi 👋, I'm Anshika Guleria</h1>
-<h3 align="center">A passionate developer from India looking to grow </h3>
-<img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/5b/1a/74/5b1a748aae0ebb507fbebf17c9bbbb5a.gif">
+<h3 align="center">Frontend / Full-Stack Developer | Learning & Building Everyday 🌱</h3>
 
-- 🌱 I’m currently learning **Dart, Firebase, Flutter, Python**
-
-- 💬 Ask me about **Dart, Flutter, Firebase, C#, Sql**
-
-- ⚡ Fun fact **Strange music Edition**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshika guleria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika guleria" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R3ZWR6d2s3Z2N4a3k3eGdndnJvNjc1ZHVkdHR4NXM4cHpsYm5jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
+## 💫 About Me
+- 🌱 Currently learning **React, Tailwind CSS & DaisyUI**
+- 🎨 Enjoy creating **clean and responsive UIs**
+- 🧠 Exploring backend with **Node.js & Express**
+- 📱 Actively improving **mobile responsiveness**
+- ✨ Believer in *learning by doing & debugging*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ans53&show_icons=true&locale=en&layout=compact" alt="ans53" /></p>
+---
+
+## 🧑‍💻 Technologies I Use
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *“Still learning. Still growing. Still building.”*
